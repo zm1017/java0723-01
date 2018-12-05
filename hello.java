@@ -9,6 +9,7 @@ import org.springframework.web.bind.annotation.ResponseBody;
 import com.ujiuye.po.Mobile;
 import com.ujiuye.service.MobileService;
 //这是一个java类
+//****************************
 @Controller
 public class MobileController {
 
